@@ -3,4 +3,4 @@ i am 666
 i am 666
 i am 666
 i am 666
-hello git！
+hello git！ hot-fix test
