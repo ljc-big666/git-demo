@@ -2,5 +2,5 @@ i am 666
 i am 666
 i am 666
 i am 666
-i am 666
+i am 666 master test
 hello git！
